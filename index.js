@@ -99,7 +99,9 @@
 // }
 // console.log(Ans);
 
-
+// console.log(10 % 2);
+// console.log(10 / 2);
+// console.log(10 * 2);
 // --- Q2. Take 2 numbers and 2 strings and perform addition operation on them in same sequence.
 
 // let a;
@@ -147,6 +149,23 @@
 // console.log(a && b);
 // console.log(a || b);
 // console.log(a != b);
+
+// console.log("logical Operators");
+// console.log((3 > 4) && (2 > 3));
+// console.log((3 < 4) && (2 > 3));
+// console.log((3 > 4) && (2 < 3));
+// console.log((3 < 4) && (2 < 3));
+
+// console.log((3 > 4) || (2 > 3));
+// console.log((3 < 4) || (2 > 3));
+// console.log((3 > 4) || (2 < 3));
+// console.log((3 < 4) || (2 < 3));
+
+// console.log((3 > 4) != (2 > 3));
+// console.log((3 < 4) != (2 < 3));
+// console.log((3 < 4) != (2 > 3));
+// console.log((3 > 4) != (2 < 3));
+
 
 //--- Q6 Take 2 variables and compare them using == and
 // === such that result of both the comparisons operation
