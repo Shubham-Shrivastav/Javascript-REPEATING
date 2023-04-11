@@ -16,6 +16,6 @@
 // }
 // else {
 //     console.log("B is greater")
-// }
 
+//}
 // Q2.  Take 3 numbers and print the biggest one amongst them
