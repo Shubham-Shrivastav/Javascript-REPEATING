@@ -22,3 +22,20 @@ console.log(c);
 
 c = a % b;
 console.log(c);
+
+//  Take 2 numbers and 2 strings and perform addition operation on them in same sequence.
+
+a = 22;
+b = '22';
+
+c = a + b;
+console.log(c);
+
+c = a * b;
+console.log(c);
+
+c = a / b;
+console.log(c);
+
+c = a % b;
+console.log(c);
