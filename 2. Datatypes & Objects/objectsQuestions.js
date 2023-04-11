@@ -6,3 +6,19 @@
 5. Take 2 boolean variables as true and false and perform And and Or logical operation over them and print the result as well as operation
 6. Take 2 variables and compare them using == and === such that result of both the comparisons operation is not equal.
 */
+
+let a, b, c;
+a = 2;
+b = 3;
+
+c = a + b;
+console.log(c);
+
+c = a * b;
+console.log(c);
+
+c = a / b;
+console.log(c);
+
+c = a % b;
+console.log(c);
